@@ -21,6 +21,7 @@ The aim is to keep notes, guides or recipes about using Cloud Computing project 
 ## Sample applications
 ### Luxxy COVID Testing System
   - :link: [Luxxy Infrastructure Creation with Terraform](applications/luxxy-covid-testing-system/README.md)
+  - :link: [Luxxy Application](http://34.86.201.56/)
 
 _The code was provided by **Intensive Cloud COmputing Hands-On Training**_
 
