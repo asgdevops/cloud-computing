@@ -5,15 +5,24 @@ This repository is used to store information related to Cloud Computing technolo
 The aim is to keep notes, guides or recipes about using Cloud Computing project solutions such as, AWS, Azure, GCP, OCI.
 
 # :bookmark_tabs: Table of Contents
-- ## AWS
+## AWS
 - :link: [Amazon Web Services (AWS)](aws/README.md)
   - :link: [Create a new AWS free tier account](aws/aws_free_tier_setup/README.md)
   - :link: [Create a new AWS Programmatic account](aws/aws_new_programmatic_account/README.md)
 
-- ## GCP
+<br/>
+
+## GCP
 - :link: [Google Cloud Platform (GCP)](gcp/README.md)
   - :link: [Create a new GCP free account](gcp/gcp_free_account_setup/README.md)
 
+<br/>
+
+## Sample applications
+### Luxxy COVID Testing System
+  - :link: [Luxxy Infrastructure Creation with Terraform](applications/luxxy-cts/README.md)
+
+_The code was provided by **Intensive Cloud COmputing Hands-On Training**_
 
 # :books: References
-- :link: [Intensive Cloud Computing Hands On Training](https://ref.thecloudbootcamp.com/lp/137369/lp137369)
+- :link: [Intensive Cloud Computing Hands-On Training](https://ref.thecloudbootcamp.com/lp/137369/lp137369)
